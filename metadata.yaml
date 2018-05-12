@@ -1,0 +1,31 @@
+_repo: One-Purple-Hope-_31307
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hasse, Henry
+    alias: Hasse, Henry Louis
+    birthdate: 1913
+    deathdate: 1977
+    gutenberg_agent_id: '32816'
+    url: http://www.gutenberg.org/2009/agents/32816
+description: Once he had been a tall, straight spaceman, free as the galaxies. Now
+  Joel Latham was a tsith-addict, a beach-comber at Venusport. Maybe he'd get one
+  last chance...
+gutenberg_issued: '2010-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcc 'PS'
+title: One Purple Hope!
+url: http://www.gutenberg.org/ebooks/31307
